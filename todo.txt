@@ -1,0 +1,8 @@
++ upload csv
++ select target column
+- recognise if classification or regression should be used
+- create model
+- show the most important features
+- create a description
+- automatically detect the target column
+- suggest steps to increase influence on the results
